@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# ETLDOCUMENTER
+- project: ETL Documentation Generator
+  role: Primary Developer
+  duration: 2018 - Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Program reads raw XML data (.dtsx files) and outputs workflows and data points in simple English to a downloadable markdown file.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Speech-enabled AI Chatbot
+- project: Speech-enabled AI Chatbot
+  role: Primary Developer
+  duration: 2018
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Chatbot talks to a human, parses query using NLP. gauges meaning and responds with data from a dynamically generated Q\&A repository

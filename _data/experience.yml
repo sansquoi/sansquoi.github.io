@@ -1,19 +1,24 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: University of Utah
+  position: Graduate Research Assistant
+  duration:  Aug, 2021 &mdash; Present
+  summary: Using software fuzzing (specifically, American Fuzzy Lop) to explore vulnerabilities in the domain of High-Performance Computing. <br><br> Exploring research problems involved with fuzzing binaries of Message Passing Interface programs (example, Slurm) that work across nodes in a network.  <br><br>Generating solutions to fuzz config values across multiple layers of execution within a HPC environment. <br><br>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Programmer Analyst
+- company: Cognizant
+  position: Programmer Analyst
+  duration:   Jul, 2016  &mdash; Mar, 2019
+  summary: Won two awards for exceptional performance. <br><br>
+
+    Developed a conversational AI voice bot using Azure Bot Service to automate tech support; used an NLP framework to parse and understand human speech, used AI to understand context and generate responses, and a text-to-speech converter to convey these responses back. ~$100,000 in cost-savings. <br><br>
+
+    Developed a program to parse .dtsx packages and produce documentation in markdown in plain English from parsed XML. Developed a website using .NET Core to show a constantly updated live-list of such .dtsx packages in production and generate documentation on-the-fly. ~$30,000 in cost-savings. <br><br>
+
+    Worked as a Full Stack Developer on a set of 20+ financial applications. Developed modern web applications using .NET Core 2.0, C#, NodeJS, and SQL. Ported legacy .NET applications to .NET Core. <br><br>
+
+    Assisted Data Warehouse Monitoring team with database issues.
+
+    Was responsible for training and assisting junior developers. <br><br>
