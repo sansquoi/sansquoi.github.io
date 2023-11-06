@@ -2,12 +2,13 @@
 - award: Star Award
   organization: Cognizant
   year: 2018
-  summary: "Your performance in the project has been outstanding. Your enthusiasm for working beyond the call of duty has proved that you are an important asset for the organization. Your contribution to the BFS vertical is highly appreciated."
+  summary: "Your performance in the project has been outstanding. 
+  Your enthusiasm for working beyond the call of duty has proved that you are an important asset for the organization. 
+  Your contribution to the BFS vertical is highly appreciated."
 
 - award: Kudos Award
   organization: Cognizant
   year: 2017
-summary: "Your outstanding performance has helped in improving the process/productivity for your project. In depth knowledge about new technology and business development is commendable. You have been a star performer of your team. Your contribution to BFS vertical is highly appreciable."
-
-
-Your performance in the project has been outstanding. Your enthusiasm for \highlight{working beyond the call of duty} has proved that you are an important asset for the organization. Your contribution to the BFS vertical is highly appreciated.
+  summary: "Your outstanding performance has helped in improving the process/productivity for your project. 
+  In depth knowledge about new technology and business development is commendable. 
+  You have been a star performer of your team. Your contribution to BFS vertical is highly appreciable."           
