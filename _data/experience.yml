@@ -4,29 +4,11 @@
 - company: University of Utah
   position: Graduate Research Assistant
   duration:  Aug, 2021 &mdash; Present
-  summary: Developed simulations to investigate vulnerabilities in scientific computing environments. <br>
-    Employed American Fuzzy Lop and LibAFL for fuzz testing cluster management and job scheduling software. <br>
-    Uncovered new avenues and conceptual ideas for future research autonomously. <br>
+  summary: Developed simulations to investigate vulnerabilities in scientific computing environments. <br><br> Employed American Fuzzy Lop and LibAFL for fuzz testing cluster management and job scheduling software. <br><br> Uncovered new avenues and conceptual ideas for future research autonomously. <br><br>
 
 
 # Programmer Analyst
 - company: Cognizant
   position: Programmer Analyst
   duration:   Jul, 2016  &mdash; Mar, 2019
-  summary: Won two awards for exceptional performance. <br><br>
-    Conceived an Interactive Voice Response application for customer service automation using Azure’s Natural Language 
-Processing stack (Azure Bot Service, Bing Speech API, and Language Understanding (LUIS)) for processing customer queries, 
-and Skype API for routing calls to answer customer questions in AI-generated speech in natural language. Generated >100,000k in cost savings. <br><br>
-    Innovated a tool to generate documentation of ETL workflows in MS-SQL ETL (SSIS) packages to detail the program flow in 
-  pseudocode. Saved up to $30,000 in development hours. <br><br>
-    Worked independently on analysis, design, development, testing, and maintenance of enhancements to 20+ fintech
-applications in .NET Core and ASP.NET on the Web and Middleware Team. <br><br>
-    Performed code, design, and SQL reviews for both junior and senior team members. Trained and assisted 3 junior team
-members to ensure seamless delivery. Improved SLA metrics of service quality and business continuity by 15%. <br><br>
-    Independently ported 3 legacy ASP.NET Web Forms applications to ASP.NET MVC using JQuery, HTML5, CSS, JQWidgets and
-WebAPI collaborating directly with client team; 2x’d performance. <br><br>
-    Spearheaded a .NET Core web application for customers to sign up for paperless statements. >30% in shipping savings. <br><br>
-    Managed the design, creation, and maintenance of intricate databases, encompassing the development of DDL and DML
-scripts, specifically tailored for complex fintech applications. Employed Entity Framework and LINQ to establish efficient
-communication between business entities and the database infrastructure. <br><br>
-    Operated Azure DevOps Server and Octopus for CI/CD pipelines and Veracode to find and fix vulnerabilities. <br><br>
+  summary: Won two awards for exceptional performance. <br><br>  Conceived an Interactive Voice Response application for customer service automation using Azure’s Natural Language Processing stack (Azure Bot Service, Bing Speech API, and Language Understanding (LUIS)) for processing customer queries, and Skype API for routing calls to answer customer questions in AI-generated speech in natural language. Generated >$100,000k in cost savings. <br><br> Innovated a tool to generate documentation of ETL workflows in MS-SQL ETL (SSIS) packages to detail the program flow in pseudocode. Saved up to $30,000 in development hours. <br><br>  Worked independently on analysis, design, development, testing, and maintenance of enhancements to 20+ fintech applications in .NET Core and ASP.NET on the Web and Middleware Team. <br><br> Performed code, design, and SQL reviews for both junior and senior team members. Trained and assisted 3 junior team members to ensure seamless delivery. Improved SLA metrics of service quality and business continuity by 15%. <br><br> Independently ported 3 legacy ASP.NET Web Forms applications to ASP.NET MVC using JQuery, HTML5, CSS, JQWidgets and WebAPI collaborating directly with client team; 2x’d performance. <br><br> Spearheaded a .NET Core web application for customers to sign up for paperless statements. >30% in shipping savings. <br><br> Managed the design, creation, and maintenance of intricate databases, encompassing the development of DDL and DML scripts, specifically tailored for complex fintech applications. Employed Entity Framework and LINQ to establish efficient communication between business entities and the database infrastructure. <br><br> Operated Azure DevOps Server and Octopus for CI/CD pipelines and Veracode to find and fix vulnerabilities. <br><br>
