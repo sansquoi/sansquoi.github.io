@@ -4,7 +4,9 @@
 - company: University of Utah
   position: Graduate Research Assistant
   duration:  Aug, 2021 &mdash; Present
-  summary: Using software fuzzing (specifically, American Fuzzy Lop) to explore vulnerabilities in the domain of High-Performance Computing. <br><br> Exploring research problems involved with fuzzing binaries of Message Passing Interface programs (example, Slurm) that work across nodes in a network.  <br><br>Generating solutions to fuzz config values across multiple layers of execution within a HPC environment. <br><br>
+  summary: Developed simulations to investigate vulnerabilities in scientific computing environments. <br>
+    Employed American Fuzzy Lop and LibAFL for fuzz testing cluster management and job scheduling software. <br>
+    Uncovered new avenues and conceptual ideas for future research autonomously. <br>
 
 
 # Programmer Analyst
@@ -12,13 +14,19 @@
   position: Programmer Analyst
   duration:   Jul, 2016  &mdash; Mar, 2019
   summary: Won two awards for exceptional performance. <br><br>
-
-    Developed a conversational AI voice bot using Azure Bot Service to automate tech support; used an NLP framework to parse and understand human speech, used AI to understand context and generate responses, and a text-to-speech converter to convey these responses back. ~$100,000 in cost-savings. <br><br>
-
-    Developed a program to parse .dtsx packages and produce documentation in markdown in plain English from parsed XML. Developed a website using .NET Core to show a constantly updated live-list of such .dtsx packages in production and generate documentation on-the-fly. ~$30,000 in cost-savings. <br><br>
-
-    Worked as a Full Stack Developer on a set of 20+ financial applications. Developed modern web applications using .NET Core 2.0, C#, NodeJS, and SQL. Ported legacy .NET applications to .NET Core. <br><br>
-
-    Assisted Data Warehouse Monitoring team with database issues.
-
-    Was responsible for training and assisting junior developers. <br><br>
+    Conceived an Interactive Voice Response application for customer service automation using Azure’s Natural Language 
+Processing stack (Azure Bot Service, Bing Speech API, and Language Understanding (LUIS)) for processing customer queries, 
+and Skype API for routing calls to answer customer questions in AI-generated speech in natural language. Generated >100,000k in cost savings. <br><br>
+    Innovated a tool to generate documentation of ETL workflows in MS-SQL ETL (SSIS) packages to detail the program flow in 
+  pseudocode. Saved up to $30,000 in development hours. <br><br>
+    Worked independently on analysis, design, development, testing, and maintenance of enhancements to 20+ fintech
+applications in .NET Core and ASP.NET on the Web and Middleware Team. <br><br>
+    Performed code, design, and SQL reviews for both junior and senior team members. Trained and assisted 3 junior team
+members to ensure seamless delivery. Improved SLA metrics of service quality and business continuity by 15%. <br><br>
+    Independently ported 3 legacy ASP.NET Web Forms applications to ASP.NET MVC using JQuery, HTML5, CSS, JQWidgets and
+WebAPI collaborating directly with client team; 2x’d performance. <br><br>
+    Spearheaded a .NET Core web application for customers to sign up for paperless statements. >30% in shipping savings. <br><br>
+    Managed the design, creation, and maintenance of intricate databases, encompassing the development of DDL and DML
+scripts, specifically tailored for complex fintech applications. Employed Entity Framework and LINQ to establish efficient
+communication between business entities and the database infrastructure. <br><br>
+    Operated Azure DevOps Server and Octopus for CI/CD pipelines and Veracode to find and fix vulnerabilities. <br><br>

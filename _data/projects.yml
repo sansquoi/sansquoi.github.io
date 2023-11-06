@@ -6,11 +6,11 @@
   role: Primary Developer
   duration: 2018 - Present
   # url: "#"
-  description: Program reads raw XML data (.dtsx files) and outputs workflows and data points in simple English to a downloadable markdown file.
+  description: To ease debugging diffulties of the ETL team, made a program that acts as a central repository of SSIS files, that converts raw XML data (.dtsx files) to output workflows and data points in simple English to a markdown text.
 
 # Speech-enabled AI Chatbot
 - project: Speech-enabled AI Chatbot
   role: Primary Developer
   duration: 2018
   # url: "#"
-  description: Chatbot talks to a human, parses query using NLP. gauges meaning and responds with data from a dynamically generated Q\&A repository
+  description: An IVR chatbot that talks to a human, parses queries using NLP, gauges the meaning and responds with data from a dynamically generated Q&A repository. 
